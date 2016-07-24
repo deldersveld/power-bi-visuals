@@ -1,1 +1,3 @@
-chapter1.txt
+introduction.txt
+chapter01-CustomVisualsInPowerBI.txt
+chapter02-PowerBIVisualTools.txt
