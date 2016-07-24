@@ -2,9 +2,6 @@
 
 ## Prerequisites
 
-## Installing Visual Tools
+## Install Visual Tools
 
-## Installing a Certificate
-
-## Configuring Power BI
-
+## Install a Server Certificate

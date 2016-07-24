@@ -1,1 +1,7 @@
 # Create a New Visual
+
+## Create a Sample Visual in Visual Tools
+
+## Explore a Sample Visual's Structure
+
+## Start a Sample Visual
