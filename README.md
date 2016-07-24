@@ -1,1 +1,1 @@
-# OpenMaps-PowerBI
+#Tutorial visuals for Microsoft Power BI
