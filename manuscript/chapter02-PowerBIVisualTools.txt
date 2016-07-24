@@ -1,1 +1,10 @@
-# Power BI Visual Tools
+# Introducing Power BI Visual Tools
+
+## Prerequisites
+
+## Installing Visual Tools
+
+## Installing a Certificate
+
+## Configuring Power BI
+
