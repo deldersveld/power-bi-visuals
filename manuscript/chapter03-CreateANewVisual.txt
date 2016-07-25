@@ -5,7 +5,7 @@ Some sample text
 ## Create a Sample Visual in Visual Tools
 Some sample text
 
-![New Visual](assets/image-test.PNG)
+![New Visual](images/image-test.PNG)
 
 ~~~~~~~~
 pbiviz new MySampleVisual
