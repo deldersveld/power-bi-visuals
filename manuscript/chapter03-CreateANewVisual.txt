@@ -29,3 +29,7 @@ cd MySampleVisual
 ~~~~~~~~
 pbiviz start
 ~~~~~~~~
+
+![Start serving a new visual](images/cli-start-MySampleVisual.PNG)
+
+![Terminate the server](images/cli-terminate-MySampleVisual.PNG)
