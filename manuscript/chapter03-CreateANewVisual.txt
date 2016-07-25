@@ -3,14 +3,29 @@
 Some sample text
 
 ## Create a Sample Visual in Visual Tools
-Some sample text
 
-![New Visual](images/image-test.PNG)
+From the Node.js command prompt, enter the execute following command to create a new custom visual.
 
 ~~~~~~~~
 pbiviz new MySampleVisual
 ~~~~~~~~
 
+![Create a new visual with "pbiviz new"](images/cli-new-MySampleVisual.PNG)
+
+You should see output stating that your new visual's creation is complete.
+
+
 ## Explore a Sample Visual's Structure
 
+~~~~~~~~
+cd MySampleVisual
+~~~~~~~~
+
+![Navigate to the new visual's directory](images/cli-cd-MySampleVisual.PNG)
+
+
 ## Start a Sample Visual
+
+~~~~~~~~
+pbiviz start
+~~~~~~~~
