@@ -2,6 +2,10 @@
 
 ## Create a Sample Visual in Visual Tools
 
+~~~~~~~~
+pbiviz new MySampleVisual
+~~~~~~~~
+
 ## Explore a Sample Visual's Structure
 
 ## Start a Sample Visual
