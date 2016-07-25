@@ -1,6 +1,11 @@
 # Create a New Visual
 
+Some sample text
+
 ## Create a Sample Visual in Visual Tools
+Some sample text
+
+![New Visual](assets/image-test.PNG)
 
 ~~~~~~~~
 pbiviz new MySampleVisual
