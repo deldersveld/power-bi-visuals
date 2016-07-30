@@ -1,7 +1,0 @@
-# Introducing Power BI Visual Tools
-
-## Prerequisites
-
-## Install Visual Tools
-
-## Install a Server Certificate

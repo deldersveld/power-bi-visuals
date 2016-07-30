@@ -1,5 +1,0 @@
-# Package and Deploy a Visual
-
-## Package a Visual in Visual Tools
-
-## Import a Packaged Visual in Power BI

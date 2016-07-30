@@ -1,7 +1,0 @@
-introduction.txt
-chapter01-CustomVisualsInPowerBI.txt
-chapter02-PowerBIVisualTools.txt
-chapter03-CreateANewVisual.txt
-chapter04-UsingTheDeveloperVisual.txt
-chapter05-PackageAndDeployAVisual.txt
-chapter06-TutorialAdaptAnExistingD3Visualization.txt
