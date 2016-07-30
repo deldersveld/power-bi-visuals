@@ -130,8 +130,8 @@ var powerbi;
     (function (visuals) {
         var plugins;
         (function (plugins) {
-            plugins.PBI_CV_A711B394_506C_40FA_8490_F9AF93A9C41D_DEBUG = {
-                name: 'PBI_CV_A711B394_506C_40FA_8490_F9AF93A9C41D_DEBUG',
+            plugins.PBI_CV_A711B394_506C_40FA_8490_F9AF93A9C41D = {
+                name: 'PBI_CV_A711B394_506C_40FA_8490_F9AF93A9C41D',
                 displayName: 'barChartExample',
                 class: 'Visual',
                 version: '1.0.0',
